@@ -16,6 +16,6 @@ I utilized a dataset comprising user information along with their churn status, 
 
 Result
 | 1498 | 97 | 
-| ---- | -- |
+| :--: | :--: |
 | 187  | 218|
 Accurecy = 85.8 %
